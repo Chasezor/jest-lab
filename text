@@ -1,0 +1,22 @@
+2 high level (broad) tests
+
+Make sure data entery is working
+
+make sure data can be removed 
+
+
+
+2 low level (specific) tests
+
+check to see if the date of warrent are valid with 
+data santitization 
+
+
+
+1 smoke/sanity test (basic run through of the whole site)
+
+make sure you can go through the whole process
+of
+-adding a person
+-making a edit 
+-deleting the document 
